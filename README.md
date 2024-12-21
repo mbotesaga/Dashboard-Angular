@@ -1,3 +1,4 @@
+![Screenshot from 2024-12-21 21-15-45](https://github.com/user-attachments/assets/7ce33138-b739-4c83-97fd-50a70c72d6e4)
 # Dashboard
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.5.
